@@ -21,3 +21,4 @@ list.addEventListener("scroll", () => {
     addItems(2);
   }
 });
+});
