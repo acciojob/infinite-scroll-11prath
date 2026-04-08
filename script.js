@@ -13,7 +13,7 @@ function addItems(num) {
 }
 
 // add 2 items by default
-addItems(2);
+addItems(10);
 
 // infinite scroll
 list.addEventListener("scroll", function () {
